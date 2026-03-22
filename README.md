@@ -1,6 +1,6 @@
 # Hi there, I'm Rushi Vyas 👋
 
-🎓 Computer Science Engineering Student | Surat, Gujarat
+🎓 Computer Science Engineering Student | Ahmedabad, Gujarat
 💻 Learning: Java · DSA · OOPs · Web Development (HTML, CSS, JS)
 🚀 Goal: Build strong fundamentals and land my first internship
 
