@@ -1,6 +1,6 @@
 # Hi there, I'm Rushi Vyas 👋
 
-🎓 Computer Science Engineering Student | Ahmedabad, Gujarat
+🎓 IT Engineering Student At VGEC| Ahmedabad, Gujarat
 💻 Learning: Java · DSA · OOPs · Web Development (HTML, CSS, JS)
 🚀 Goal: Build strong fundamentals and land my first internship
 
