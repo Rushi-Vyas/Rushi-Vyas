@@ -2,7 +2,7 @@
 
 🎓 IT Engineering Student At VGEC| Ahmedabad, Gujarat
 💻 Learning: Java · DSA · OOPs · Web Development (HTML, CSS, JS)
-🚀 Goal: Build strong fundamentals and land my first internship
+🚀 Goal: Build strong fundamentals 
 
 ---
 
